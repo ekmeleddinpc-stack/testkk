@@ -1,0 +1,22 @@
+{
+  "short_name": "Kefkefî",
+  "name": "Kefkefî Lugatı",
+  "description": "Dijital internet lugatı ve kelime hazinesi.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#f8f9fa",
+  "theme_color": "#00C800",
+  "display": "standalone",
+  "orientation": "portrait"
+}
