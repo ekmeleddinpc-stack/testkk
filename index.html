@@ -779,29 +779,48 @@
         }
 
         function icerigiGoster(item) {
-            aktifSeciliKelime = item;
-            contentTitle.textContent = item.kelime;
-            document.title = `${item.kelime} - Kefkefî Lugatı`;
-            
-            const hammadde = (item.anlam && item.anlam !== "nan") ? item.anlam : "Henüz bu kelimenin metnini doldurmadık, velakin tamam değil devam...";
-            contentBody.innerHTML = hammadde;
-            contentBody.classList.remove('placeholder');
+    aktifSeciliKelime = item;
+    contentTitle.textContent = item.kelime;
+    document.title = `${item.kelime} - Kefkefî Lugatı`;
 
-            copyBtn.style.display = 'inline-flex';
-            favActionBtn.style.display = 'inline-flex';
-            guncelleFavoriButonGorunumu(item.kelime);
+    let html = '';
 
-            document.body.classList.add('word-selected');
+    if (item.tasnif) {
+        html += `<div style="margin-bottom:12px;"><span style="background:var(--primary-color); color:white; padding:3px 8px; border-radius:4px; font-size:0.85rem; font-weight:bold;">${item.tasnif}</span></div>`;
+    }
 
-            const items = wordListEl.querySelectorAll('.word-item');
-            items.forEach(el => {
-                if (el.querySelector('span').textContent.toLowerCase() === item.kelime.toLowerCase()) {
-                    el.classList.add('active');
-                } else {
-                    el.classList.remove('active');
-                }
-            });
-        }
+    if (item.ikame) {
+        html += `<p><b>İkame Edildiği Kelimeler:</b><br>${item.ikame}</p>`;
+    }
+
+    if (item.bilgi) {
+        html += `<p><b>Kelime Hakkında Bilgi:</b><br>${item.bilgi}</p>`;
+    }
+
+    if (item.kaynak) {
+        html += `<p><b>İlk Geçtiği Kaynak / Tarih:</b><br>${item.kaynak}</p>`;
+    }
+
+    if (item.nuans) {
+        html += `<p><b>Anlam Farkları / Nüans:</b><br>${item.nuans}</p>`;
+    }
+
+    if (item.ornek) {
+        html += `<p><b>Metin İçi Örnek:</b><br><i>${item.ornek}</i></p>`;
+    }
+
+    if (item.mustak) {
+        html += `<p><b>Müştak / Alakalı Kelimeler:</b><br>${item.mustak}</p>`;
+    }
+
+    contentBody.innerHTML = html || "Henüz bu kelimenin detayları girilmedi.";
+    contentBody.classList.remove('placeholder');
+
+    copyBtn.style.display = 'inline-flex';
+    favActionBtn.style.display = 'inline-flex';
+    guncelleFavoriButonGorunumu(item.kelime);
+    document.body.classList.add('word-selected');
+}
 
         function listeyeDon() {
             document.body.classList.remove('word-selected');

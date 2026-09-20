@@ -1,0 +1,25 @@
+{
+  "name": "siteicin-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekmeleddinpc-stack/testkk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ekmeleddinpc-stack/testkk/issues"
+  },
+  "homepage": "https://github.com/ekmeleddinpc-stack/testkk#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
