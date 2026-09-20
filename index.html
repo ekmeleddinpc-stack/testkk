@@ -790,7 +790,7 @@
     }
 
     if (item.ikame) {
-        html += `<p><b>İkame Edildiği Kelimeler:</b><br>${item.ikame}</p>`;
+        html += `<p><b>İkame Edildiği Kelime/Kelimeler:</b><br>${item.ikame}</p>`;
     }
 
     if (item.bilgi) {
@@ -798,11 +798,11 @@
     }
 
     if (item.kaynak) {
-        html += `<p><b>İlk Geçtiği Kaynak / Tarih:</b><br>${item.kaynak}</p>`;
+        html += `<p><b>İlk Geçtiği Kaynak/Yıl:</b><br>${item.kaynak}</p>`;
     }
 
     if (item.nuans) {
-        html += `<p><b>Anlam Farkları / Nüans:</b><br>${item.nuans}</p>`;
+        html += `<p><b>Mana Farkları/Nüans:</b><br>${item.nuans}</p>`;
     }
 
     if (item.ornek) {
@@ -810,7 +810,7 @@
     }
 
     if (item.mustak) {
-        html += `<p><b>Müştak / Alakalı Kelimeler:</b><br>${item.mustak}</p>`;
+        html += `<p><b>Müştak / Alakalı Diğer Kelimeler:</b><br>${item.mustak}</p>`;
     }
 
     contentBody.innerHTML = html || "Henüz bu kelimenin detayları girilmedi.";
