@@ -1,8 +1,8 @@
 [
   {
     "kelime": "Abartmak",
-    "tasnif": "Anadolu halk ağızlarında (Konya şivesinde) tespit edilmiştir.",
-    "bilgi": "",
+    "tasnif": "Anadolu halk ağızları",
+    "bilgi": "Tarama Dergisinde Konya şivesinden olduğu kaydı vardır.",
     "kaynak": "Tarama Dergisi (1934)",
     "ikame": "1)mübalağa/mubālaġa (ﻣﺒﺎﻟﻐﻪ)\r\n2)ifrat/ifrāṭ (ﺍﻓﺮﺍﻁ)\r\n3)izam/i‘ẓām (ﺇﻋﻈﺎﻡ)",
     "nuans": "",
@@ -11,10 +11,10 @@
   },
   {
     "kelime": "Acımasız",
-    "tasnif": "",
+    "tasnif": "Neolojizm/Kelime uydurma",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "",
+    "ikame": "1)Merhametsiz   [merhamet/merhamet (ﻣﺮﺣﻤﺖ)]\r\n2)İnsafsız   [insaf/inṣāf (ﺍﻧﺼﺎﻒ)]\r\n3)Amansız   [aman/emān (ﺍﻣﺎﻥ)]\r\n4)Gaddar/ġaddār (غدّار)\r\n5)Zalim/ẓālim (ﻇﺎﻟﻢ)",
     "nuans": "",
     "ornek": "",
     "mustak": ""
