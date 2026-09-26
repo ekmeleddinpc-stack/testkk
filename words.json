@@ -14,30 +14,20 @@
     "tasnif": "Neolojizm/Kelime uydurma",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)Merhametsiz   [merhamet/merḥamet (ﻣﺮﺣﻤﺖ)]\r\n2)İnsafsız   [insaf/inṣāf (ﺍﻧﺼﺎﻒ)]\r\n3)Amansız   [aman/emān (ﺍﻣﺎﻥ)]\r\n4)Gaddar/ġaddār (غدّار)\r\n5)Zalim/ẓālim (ﻇﺎﻟﻢ)",
-    "nuans": "",
-    "ornek": "",
-    "mustak": ""
-  },
-  {
-    "kelime": "ACUN",
-    "tasnif": "",
-    "bilgi": "",
-    "kaynak": "",
-    "ikame": "",
+    "ikame": "1)Merhametsiz   [merhamet/merhamet (ﻣﺮﺣﻤﺖ)]\r\n2)İnsafsız   [insaf/inṣāf (ﺍﻧﺼﺎﻒ)]\r\n3)Amansız   [aman/emān (ﺍﻣﺎﻥ)]\r\n4)Gaddar/ġaddār (غدّار)\r\n5)Zalim/ẓālim (ﻇﺎﻟﻢ)",
     "nuans": "",
     "ornek": "",
     "mustak": ""
   },
   {
     "kelime": "AÇI",
-    "tasnif": "",
-    "bilgi": "",
-    "kaynak": "",
-    "ikame": "",
+    "tasnif": "Neolojizm/Kelime uydurma",
+    "bilgi": "Mustafa Kemal'in icadıdır. Geometrideki zaviye kelimesinin yerine düşünülmüştü fakat sonradan görüş, perspektif vs. manalardaki birçok kelimenin yerine kullanılmaya başlandı.",
+    "kaynak": "Geometri, Mustafa Kemal  (1937)",
+    "ikame": "1)Zaviye\r\n2)Cephe\r\n3)Veçhe\r\n4)Cihet\r\n5)Hasep\r\n6)Yön\r\n7)Pencere\r\n8)Bakım\r\n9)Nokta-i nazar\r\n10)İnd\r\n11)Ufuk",
     "nuans": "",
     "ornek": "",
-    "mustak": ""
+    "mustak": "1)Açı ayraç\r\n2)Açı ölçüm\r\n3)Açı parantez\r\n4)Açıortay\r\n5)Açıölçer\r\n6)Alt açı\r\n7)Bakış açısı\r\n8)Bütünler açı\r\n9)Çevre açı\r\n10)Dar açı\r\n11)Dış açı\r\n12)Dış ters açı\r\n13)Dik açı\r\n14)Doğru açı\r\n15)Geniş açı\r\n16)Gol açısı\r\n17)Görme açısı\r\n18)Görüş açısı\r\n19)İç ters açı\r\n20)Karşı açı\r\n21)Komşu açı\r\n22)Merkez açı\r\n23)Ölü açı\r\n24)Saat açısı\r\n25)Sınır açı\r\n26)Tam açı\r\n27)Tepe açısı\r\n28)Ters açı\r\n29)Tümler açı\r\n30)Üst açı\r\n31)Yöndeş açılar"
   },
   {
     "kelime": "AÇIK ARTIRMA",
@@ -6391,6 +6381,16 @@
   },
   {
     "kelime": "TARIM",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "TÂRİHSEL",
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
