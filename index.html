@@ -641,7 +641,7 @@
 
         async function verileriGetir() {
             try {
-                const response = await fetch('./words.json?v=1.0.0');
+                const response = await fetch('./words.json?v=1.0.0.1');
                 sozlukVerileri = await response.json();
                 
                 sozlukVerileri.sort((a, b) => a.kelime.localeCompare(b.kelime, 'tr'));
