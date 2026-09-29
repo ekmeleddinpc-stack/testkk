@@ -1,7 +1,7 @@
 [
   {
     "kelime": "Abartmak",
-    "tasnif": "Anadolu halk şiveleri",
+    "tasnif": "Anadolu Halk Şiveleri",
     "bilgi": "Tarama Dergisinde Konya şivesinden olduğu kaydı vardır.",
     "kaynak": "Tarama Dergisi (1934)",
     "ikame": "1)mübalağa/mubālaġa (ﻣﺒﺎﻟﻐﻪ)\r\n2)ifrat/ifrāṭ (ﺍﻓﺮﺍﻁ)\r\n3)izam/i‘ẓām (ﺇﻋﻈﺎﻡ)",
@@ -11,7 +11,7 @@
   },
   {
     "kelime": "Acımasız",
-    "tasnif": "Neolojizm/Kelime uydurma",
+    "tasnif": "Neolojizm",
     "bilgi": "",
     "kaynak": "",
     "ikame": "1)Merhametsiz   [merhamet/merhamet (ﻣﺮﺣﻤﺖ)]\r\n2)İnsafsız   [insaf/inṣāf (ﺍﻧﺼﺎﻒ)]\r\n3)Amansız   [aman/emān (ﺍﻣﺎﻥ)]\r\n4)Gaddar/ġaddār (غدّار)\r\n5)Zalim/ẓālim (ﻇﺎﻟﻢ)",
@@ -20,8 +20,8 @@
     "mustak": ""
   },
   {
-    "kelime": "Açı",
-    "tasnif": "Neolojizm/Kelime uydurma",
+    "kelime": "Acun",
+    "tasnif": "Neolojizm",
     "bilgi": "Mustafa Kemal'in icadıdır. Geometrideki zaviye kelimesinin yerine düşünülmüştü fakat sonradan görüş, perspektif vs. manalardaki birçok kelimenin yerine kullanılmaya başlandı.",
     "kaynak": "Geometri, Mustafa Kemal (1937)",
     "ikame": "1)Zaviye/zāviye (ﺯﺍﻭﻳﻪ)\r\n2)Cephe/cebhe (ﺟﺒﻬﻪ)\r\n3)Veçhe/veche (ﻭﺟﻬﻪ)\r\n4)Cihet/cihet (ﺟﻬﺖ)\r\n5)Hasep/ḥaseb (ﺣﺴﺐ)\r\n6)Nokta-i nazar/noḳṭa-i nazar (ﻧﻈﺮ ﻧﻘﻄﻪ)\r\n7)İnd/‘ind (ﻋﻨﺪ)\r\n8)Ufuk/ufḳ (ﺍﻓﻖ)",
@@ -29,1704 +29,7874 @@
     "ornek": "",
     "mustak": ""
   },
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-},
-{
-"kelime": "",
-"tasnif": "",
-"bilgi": "",
-"kaynak": "",
-"ikame": "",
-"nuans": "",
-"ornek": "",
-"mustak": ""
-}
+  {
+    "kelime": "Açı",
+    "tasnif": "Neolojizm",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Açık artırma",
+    "tasnif": "Neolojizm",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Açık oturum",
+    "tasnif": "Neolojizm",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Açık oy",
+    "tasnif": "Neolojizm",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Açıklamak",
+    "tasnif": "Neolojizm",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Açılım",
+    "tasnif": "Neolojizm",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ad çekmek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Aday",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ahlâksal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Aile bireyleri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Akaryakıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Akçasal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Akım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Akkor",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Akyuvar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Alan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Albay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Algı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Alımlı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Alındı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Alıntı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Almaç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Amaç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ana gündem maddesi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anaerki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anayasa",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anımsamak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anlam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anlaşmazlık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anlatı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anlayış",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anma töreni",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Aracı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Araç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Arakesit",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Aralık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Arasöz",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Araştırma kurulu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ardıl",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Arılaştırma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Artı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Asalak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ast",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Asteğmen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Astsubay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Aşama",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ataerki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Atamak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Atardamar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ateşkes",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Atılım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Avuntu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ayça",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Aydın",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Aygıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ayırtman",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Aymaz",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ayraç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ayrıcalık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ayrım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ayrıntı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ayrışık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Azınlık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağıl",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağımlı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağımsız",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağıntı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağışık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağlaç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağlam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağlantı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağlaşık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bağnaz",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bakan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bakış açısı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Barınak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Barışçıl",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Basın",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başarı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başat",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başbakan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başbayan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başbuğ",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başkaldırı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başkan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başkent",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başkomutan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başöğretmen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başvuru",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başyapıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Başyazar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bayındır",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bedensel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Beğeni",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Belge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Belirgin",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Belirlemek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Belirteç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Belirti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bellek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bencil",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bengi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Benzeti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Besin",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Beşgen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Betim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bırakışma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bildiri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bileşik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bilge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bilgi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bilim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bilinç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bilirkişi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bir süre",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bir tür",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Birey",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Birikim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Birim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Birincil",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Birleşik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bitimli",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bitki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Boş inanç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Boylam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Boyut",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Böbrek yetmezliği",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bölge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bölüm",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bu durumda",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bu tür",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bucak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Budunbilim (budun bilimi)",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bulgu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bunalım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Buzul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Bütünsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Büyük çoğunluk",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Büyük olasılıkla",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Büyüteç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Cenâze töreni",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Cinsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Coşku",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Cumhurbaşkanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Cümlecik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çaba",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çağdaş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çağrı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çarpım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çatı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çekim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çelişki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çelmece",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çeviri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çıkarım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çizelge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çocuk esirgeme kurumu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çoğul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çok önemli",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çok özel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çokgen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çökelti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çöküntü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çözelti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Çözüm",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dağılım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Daha önemli",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dairesel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Damıtık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Danışman",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dayanak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dayanışma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Değerbilir",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Değğin",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Değini",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Değişim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Delgeç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Demeç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Denek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Denetim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Deney",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Denge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Denklem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Deprem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dergi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Derslik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Devinim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Devlet başkanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Devrim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Deyim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dış işleri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dışalım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dışkı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dışsatım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dik açı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dikdörtgen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dikey",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dilbilim (dil bilimi)",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dilekçe",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dingin",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dinsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Direnç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dişil",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dize",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dizge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Doğa",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Doğmaca",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Doğru orantılı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Doku",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dolaşım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Donanım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Doygun",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dölleme (döllenme)",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dönem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dört işlem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Durağan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Durum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Duyarlı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Duyu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Dürtü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Düş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Düşünce",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Düze",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Düzelti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Düzenlemek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Düzey",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Düzlem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Düzyazı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eder",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Edilgen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Edim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Egemen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eğilim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eğitim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ek süre",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ekim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eklem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ekonomi bakanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eksen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eksi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Elektrik sayacı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eleştiri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Emekli",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Emir komuta zinciri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Emniyet genel müdürlüğü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "En önemli",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "En özel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Erdem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Erek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eril",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Erişim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Erk",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Esen kal (esen kalın)",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Esin",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eş anlam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eş değer",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eş güdüm",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eşcinsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eşey",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eşit",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eşsesli",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Etçil",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Etken",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Etki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Etmen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ev yönetimi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Evcil",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Evirme",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Evre",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Evren",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Evrim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eylem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Eytişim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ezici çoğunluk",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Fiziksel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gazeteci yazar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Geçerli",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Geçirgen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gelecek kuşaklar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gelenek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gelgit",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gelir dağılımı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gelişim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Genel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Genleşmek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gerçekleşmek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gereç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gerekçe",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gerici",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gerilim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Getiri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gezegen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gider",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Girişim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Giysi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Giz",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Göçmen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gökbilim (gökbilimi)",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gönderi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gönenç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Görece",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Görev",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Görgü kuralları",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Görkem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Görsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Görüntü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gösterge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gözaltı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gözetim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gözlem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Güç odağı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Güdü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gümrük ve tekel bakanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Günaydın",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Günce",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Gündem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Güney",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Günlük",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Güven",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Halk ozanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Halkoyu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Harp okulu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Hava akımı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Hayat okulu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Hayır kurumu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Hayvansal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Her durumda",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Hoşgörü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Hukuk kuralları",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ilıman",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ira",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Isı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İç işleri bakanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İçbükey",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İçerik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İçgüdü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İçsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İçten",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İçtüzük",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İkilem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İkincil",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İkircim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İlçe",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İlerici",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İleti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İlgi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İlinti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İlişki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İlke",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İlkokul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İm",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İmge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İmleç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İnanç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İndirgemek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İnsanbilim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İrdelemek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İstem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İş bölümü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İş okulu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İşitme duyusu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İşlem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İşlev",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İvme",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İye",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İyimser",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İzdüşüm",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "İzlem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kaldıraç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kalıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kamu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kan dolaşımı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kanaat önderi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kanıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kanun tasarısı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kapalı oturum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kaplam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kapsam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Karamsar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Karasal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Karışım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Karmaşa",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Karşılama töreni",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Karşın",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Karşıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kas",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kasım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Katılım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Katman",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Katsayı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kavram",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kazı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kent",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kesenek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kesin",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kesinti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kesit",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kılcal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kırım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kırsal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kısıntı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kısır döngü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kısıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kıvanç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kıyım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kimlik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kimyasal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kip",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kişilik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kitlesel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Komut",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Konu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Konuk",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Konum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Konut",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Korgeneral",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Korumacı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Korunak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Koşuk",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Koşul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Koşut",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kovuşturma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kökenbilim (köken bilimi)",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Köktenci",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Köşe yazarı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kötücül",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kötümser",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kullanım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kumul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kural",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kuram",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kurgu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kurmay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kurucular kurulu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kurul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kurultay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kuruluş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kurum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kuşak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kuşku",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kutlama",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kutsal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kuzey",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Kültür bakanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Küresel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Maddesel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Madensel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Mal bildirimi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Mantıksal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Merkezî yönetim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Millî eğitim bakanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Millî savunma bakanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Mutlu azınlık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Mutsuz",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Neden",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Nesnel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Nicel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Nitel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ocak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Odak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Okul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Okur",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Olağan dışı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Olanak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Olası",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Olay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Oldubitti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Olgu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Olumlu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Olumsuz",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Olurluk",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Oluş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Omur",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Onama",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Onarım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Onay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Onur",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Oran",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Organik ürün",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Orgeneral",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Orta çağ",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ortak payda",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ortam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ortaokul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Oturum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Oy",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ozan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ödenek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ödev",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ödül",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ödün",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öğrenci",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öğrenim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öğreti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öğretmen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ölçün",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ön koşul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ön yargı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ön yüzbaşı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öncel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Önder",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Önem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Önerge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öneri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öngörü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Önlem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Önsezi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Önsöz",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Örgün",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Örgüt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Örneklem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Örtmece",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Örtülü ödenek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Örtüşmek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öteleme, ötelenme",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Övgü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Övünç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öykü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öz bağışıklık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öz denetim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öz direnç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öz geçmiş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Öz güven",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özdek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özdeş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özdeyiş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özerk",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özet",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özgül",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özgün",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özgür",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özlem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özleştirmek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özlük",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özne",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özsaygı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özsu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özümlemek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özümsemek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özüt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Özveri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Parasal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Payda",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Pek önemli",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Peşin yargı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Rastlantı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Resmî görev",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ruhbilim (ruh bilimi)",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sağduyu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sağlık bakanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sakınca",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Saldırgan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Salgı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Salınım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Saltçı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sanal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sanık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Saplantı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Saptamak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sarkaç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sarmal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sav",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Savaşım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Savcı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Savunma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Savurgan",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sayaç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Saydam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Saygın",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sayısal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sayman",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sayrı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Seçenek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Seçici kurul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Seçim bölgesi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Seçki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Seçmen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sekizgen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Serüven",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ses bilgisi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sevecen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sığınak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sıkıyönetim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sınav",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sınırlama",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sıvı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Simge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sindirim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sinirsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sivil savunma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Siyasa",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Solunum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Somut",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sonuç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sorgu hâkimi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Soru",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sorumlu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sorun",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Soya çekim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Soyut",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sömürge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sövgü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Söylem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Söylence",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Söyleşi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Söylev",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Söz konusu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Söz yazarı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Söz yitimi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sözcük",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sözdizimi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sözel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sözlü sınav",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sözlük",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Su sayacı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Su ürünleri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Subay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sunak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Sunu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Süre",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Şekilbilim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Şiirsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Takı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Takınak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tanı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tanım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tanıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tanrıbilim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tapınak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tarım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tarihsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tasarı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Taşıl",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Taşım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Taşınmaz",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Taşıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Taşlama",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Teğet",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Teğmen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tekdüze",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tekel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tekil",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tensel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tepki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Terim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ters orantılı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tikel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tiksinti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tini",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Titreşim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Toplam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Toplum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tortul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tören",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tuğgeneral",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tutanak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tutar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tutku",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tutucu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tutukevi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tutum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tüketim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tüm",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tür",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Tüze",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uçak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uğraş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ulaşım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ulusal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Utku",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uyak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uyarı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uydu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uygar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uygulama",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uyruk",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uyum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uzam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uzman",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Uzun süre",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Üçgen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ülkü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ündeş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ünlem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ünlü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ürem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Üretim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ürkünç",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ürün",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Üst düzey",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Üst subay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Üsteğmen",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Üye",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Vargı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Varlıkbilim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Varoluşsal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Varsayım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Varsıl",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Veri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Vicdan özgürlüğü",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Vurgun",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yabanıl",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yadsımak",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yakınma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yakıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yalıtım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yan ürün",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yanal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yandaş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yangı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yanılgı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yanıt",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yanlı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yansı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yapay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yapım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yaptırım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yarar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yaratık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yarbay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yargı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yasa",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yaşam",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yatay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yatılı öğrenci",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yatırım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yatıştırıcı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yaygın",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yayım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yazar",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yazgı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yazılı sınav",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yazım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yedek subay",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yeğlemek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yemin töreni",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yeni çağ",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yenilgi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yerbilim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yerel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yerey",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yergi",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yerindelik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yerküre",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yerleşik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yetenek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yeterli",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yetki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yetkin",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yetmezlik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yıldırı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yıldızbilim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yıllık",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yinelemek",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yoğunlaşma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yoğuşma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yoksun",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yol yöntem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yontu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yorum",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yozlaşma",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yöndeş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yönelik",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yönerge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yönetim",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yöntem",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yöresel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yörünge",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yurtsever",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yurttaş",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yüksekokul",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yükselti",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yüküm",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yürürlük",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yüzey",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Yüzölçümü (yüz ölçümü)",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Zaman aşımı",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Zihinsel",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Zoralım",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Zorunlu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  }
 ]
