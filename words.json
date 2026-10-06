@@ -1,10 +1,40 @@
 [
   {
+    "kelime": "Abartmak",
+    "tasnif": "Anadolu Halk Şiveleri",
+    "bilgi": "Tarama Dergisinde Konya şivesinden olduğu kaydı vardır.",
+    "kaynak": "Tarama Dergisi (1934)",
+    "ikame": "1)mübalağa/mubālaġa (ﻣﺒﺎﻟﻐﻪ)\r\n2)ifrat/ifrāṭ (ﺍﻓﺮﺍﻁ)\r\n3)izam/i‘ẓām (ﺇﻋﻈﺎﻡ)",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Acımasız",
+    "tasnif": "Neolojizm",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "1)Merhametsiz   [merhamet/merhamet (ﻣﺮﺣﻤﺖ)]\r\n2)İnsafsız   [insaf/inṣāf (ﺍﻧﺼﺎﻒ)]\r\n3)Amansız   [aman/emān (ﺍﻣﺎﻥ)]\r\n4)Gaddar/ġaddār (غدّار)\r\n5)Zalim/ẓālim (ﻇﺎﻟﻢ)",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Açı",
+    "tasnif": "Neolojizm",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
     "kelime": "Açık artırma",
     "tasnif": "Neolojizm",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)müzayede i aleniye/müzāyede-i ‘aleniyye (مزایدهٔ علنیه)\n2)müzayede/müzāyede (مزایده)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -14,7 +44,7 @@
     "tasnif": "Neolojizm",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)aleni celse/‘alenî celse (علنی جلسه)\n2)celse i aleniye/celse-i ‘aleniyye (جلسهٔ علنيه)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -24,7 +54,7 @@
     "tasnif": "Neolojizm",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)iş'ari rey/iş‘ārī re’y (إشعاري رأي)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -34,7 +64,7 @@
     "tasnif": "Neolojizm",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)tasrih etmek/taṣrīḥ etmek (تصريح ايتمك)\n2)tavzih etmek/tavżīḥ etmek (توضيح ايتمك)\n3)tafsil etmek/tafṣīl etmek (تفصيل ايتمك)\n4)izah etmek/īżāḥ etmek (ايضاح ايتمك)\n5)tefsir etmek/tefsīr etmek (تفسير ايتمك)\n6)şerh etmek/şerḥ etmek (شرح ايتمك)\n7)beyan etmek/beyān etmek (بيان ايتمك)\n8)teşhir etmek/teşhīr etmek (تشهير ايتمك)\n9)ifşa etmek/ifşā etmek (افشا ايتمك)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -44,17 +74,17 @@
     "tasnif": "Neolojizm",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)inbisat/inbisāṭ (انبساط)\n2)inkişaf/inkişāf (انكشاف)\n3)gelişme/gelişme (كليشمه)\n4)büyüme/büyüme (بيومه (بويومه))\n5)çoğalma/çoġalma (چوغالمه)\n6)nema/nemā (نما)\n7)tenmiye/tenmiye (تنميه)\n8)neşvünema/neşvünemā (neşv ü nemā) (نشو و نما (نشوونما))\n9)tevessu/tevessu‘ (توسع)\n10)genişleme/genişleme (كنيشلمه)\n11)yayılma/yayılma (ياييلما)\n12)açılma/açılma (آچيلما)\n13)fütuhat/fütūḥāt (فتوحات)\n14)sulh/ṣulḥ (صلح)\n15)barış/barış (باريش)\n16)tahlil/taḥlīl (تحليل)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
   },
   {
     "kelime": "Ad çekmek",
-    "tasnif": "İ̄",
+    "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)kur'a çekmek/ḳur‘a çekmek (قرعه چكمك)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -64,7 +94,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)namzed/nāmzed (نامزد)\n2)maznun/maẓnūn (مظنون)\n3)zanlı/ẓanlı (ظنلی)\n4)şübheli/şübheli (شبهه‌لی)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -74,7 +104,17 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)ahlaki/aḫlāḳī (اخلاقی)",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Aile bireyleri",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -84,7 +124,17 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)mayi i mahruk/māyi‘-i maḥrūḳ (مايع محروق)\n2)madde i müşteile/madde-i müşte‘ile (مادهٔ مشتعله)\n3)mahrukat ı mayia/maḥrūḳāt-ı māyi‘a (محروقات مايعه)",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Akçasal",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -94,7 +144,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)cereyan/cereyān (جريان)\n2)akıntı/aḳıntı (آقينتی)\n3)akma/aḳma (آقمه)\n4)seyelan/seyelān (سيلان)\n5)hareket/ḥareket (حركت)\n6)mekteb/mekteb (مكتب)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -104,7 +154,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)nar ı beyza/nār-ı beyżā (نار بيضا)\n2)müteşehhib/müteşehhib (متشهب)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -114,7 +164,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)küreyve i beyza/küreyve-i beyżā (كريوهٔ بيضا)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -124,7 +174,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)saha/sāha (ساحه)\n2)mesaha i sathiye/mesāha-i sathiyye (مساحهٔ سطحيه)\n3)sahne/sahne (صحنه)\n4)arena/arena (آرنه)\n5)netlik sahası/netlik sāhası (نتلك ساحه‌سی)\n6)meydan/meydān (ميدان)\n7)satıh/sath (سطح)\n8)mekan/mekān (مكان)\n9)menzil/menzil (منزل)\n10)mevkıf/mevkıf (موقف)\n11)açık, açıklık, dışarı/açıḳ, açıḳlıḳ, dıṣarı (dıṣaru) (آچیق، آچیقلق، طشاری (طشارو))\n12)koyak, vadi/ḳoyaḳ, vādī (قویاق، وادی)\n13)mıntıka/mınṭaḳa (منطقه)\n14)taraf/ṭaraf (طرف)\n15)nahiye/nāḥiye (ناحیه)\n16)havza/ḥavza (حوزه)\n17)kır, ova/ḳır, ova (قیر، اووا (اووه))\n18)arazi/arāżī (اراضی)\n19)yer, mahal/yer, maḥall (یر، محل)\n20)zemin/zemīn (زمین)\n21)mevki/mevḳiʻ (موقع)\n22)hayyiz/ḥayyiz (حيز)\n23)mevzi/mevżiʻ (موضع)\n24)kıtta/kıṭʻa (قطعه)\n25)ülke, diyar, memleket/ülke, diyār, memleket (اولكه، ديار، مملكت)\n26)bölük, bölme/bölük, bölme (بولوك، بولمه)\n27)husus/ḫuṣūṣ (خصوص)\n28)sistem/sistem (سيستم)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -134,7 +184,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)miralay/mîralay (ميرآلای)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -144,7 +194,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)ganimet/ġanīmet (غنيمت)\n2)idrak/idrāk (ادراك)\n3)derk/derk (درك)\n4)fehm/fehm (فهم)\n5)anlama/añlama (آکلامه)\n6)anlayış/añlayış (آکلایش)\n7)kavrama/kavrama (قاورامه)\n8)kavrayış/kavrayış (قاورایش)\n9)müdrike/müdrike (مدركه)\n10)zan/zann (ظن)\n11)sanma/sanma (صانمه)\n12)tasavvur/taṣavvur (تصوّر)\n13)telakki/telaḳḳī (تلقّی)\n14)bakış/baḳış (باقش)\n15)fikir/fikr (فكر)\n16)düşünme/düşünme (دوشونمه)\n17)düşünce/düşünce (دوشونجه)\n18)tefekkür/tefekkür (تفكّر)\n19)teemmül/te’emmül (تأمّل)\n20)mülahaza/mülāḥaza (ملاحظه)\n21)kanaat/kanā‘at (قناعت)\n22)iman/īmān (ايمان)\n23)inanış/inanış (اينانش)\n24)itikad/i‘tikād (اعتقاد)\n25)mefhum/mefhūm (مفهوم)\n26)mana/ma‘nā (معنیٰ)\n27)zihniyet/zihniyyet (ذهنيت)\n28)ittihaz/ittihāẕ (اتخاذ)\n29)sezme/sezme (سزمه)\n30)sezgi/sezgi (سزگی)\n31)hads/ḥads (حدس)\n32)tahaddüs/taḥaddüs̲ (tahaddüs) (تحدث (تحدس))\n33)duygu/duyġu (طویغو)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -154,7 +204,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)cazib/cāẕib (جاذب)\n2)cazibeli/cāẕibeli (جاذبه‌لی)\n3)çekici/çekici (چكیجی)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -164,7 +214,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)makbuz/maḳbūż (مقبوض)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -174,7 +224,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)iktibas/iktibās (اقتباس)\n2)iktibas etme/iktibās etme (اقتباس ايتمه)\n3)nakil/nakl (نقل)\n4)nakletme/nakletme (نقل ايتمه)\n5)muktebes/muktebes (مقتبس)\n6)menkul/menḳūl (منقول)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -184,7 +234,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)ahize/āḫiẕe (آخذه)\n2)cihaz ı ahiz/cihāz-ı āḫiẕ (جهاز آخذ)\n3)alıcı/alıcı (آلیجی)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -194,17 +244,27 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)hedef/hedef (هدف)\n2)gaye/gāye (غايه)\n3)gayet/gāyet (غايت)\n4)maksad/maḳṣad (مقصد)\n5)zımn/żımn (ضمن)\n6)matlub/maṭlūb (مطلوب)\n7)murad/murād (مراد)\n8)irade/irāde (اراده)\n9)iradet/irādet (ارادت)\n10)emel/emel (امل)\n11)mefkure/mefkûre (مفكوره)\n12)aksa yı emel/aḳṣā-yı emel (اقصای امل)\n13)tul i emel/ṭūl-i emel (طول امل)\n14)uğur/uġur (اوغور)\n15)yol/yol (يول)\n16)niyet/niyyet (نيت)\n17)garaz/ġaraż (غرض)\n18)arzu/ārzū (آرزو)\n19)istek/istek (ايستك)\n20)dilek/dilek (ديلك)\n21)maksud/maḳṣūd (مقصود)\n22)heves/heves (هوس)\n23)sebeb i vücud/sebeb-i vücūd (سبب وجود)\n24)gaiyet/ġā’iyyet (غائيت)\n25)hasıl/ḥāṣıl (حاصل)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
   },
   {
-    "kelime": "Anaerkil",
+    "kelime": "Ana gündem maddesi",
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)maderşahilik/māderşāhīlik (مادرشاهيلك)",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Anaerki",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -214,7 +274,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)kanun ı esasi/kānûn-ı esâsî (قانون اساسی)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -224,7 +284,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)hatıra/ḫāṭıra (خاطره)\n2)hatırat/ḫāṭırāt (خاطرات)\n3)bergüzar/bergüzār (برگزار)\n4)yadigar/yādigār (یادگار)\n5)yad daşt/yāddāşt (یادداشت)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -234,7 +294,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)hatırlamak/ḫāṭırlamaḳ (خاطرلامق)\n2)anmak/añmaḳ (آڭمق)\n3)yad etmek/yād etmek (ياد ايتمك)\n4)tahattur etmek/taḫaṭṭur etmek (تخطر ايتمك)\n5)derhatır etmek/derḫāṭır etmek (درخاطر ايتمك)\n6)aklına gelmek/‘aḳlına gelmek (عقلنه كلمك)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -244,7 +304,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)abide/‘ābide (عابده)\n2)abidevi/‘ābidevî (عابده‌وی)\n3)heykel/heykel (هيكل)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -254,7 +314,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)mana/ma‘nâ (ma‘nā) (معنى)\n2)meal/me’âl (me’āl) (مآل)\n3)mazmun/mazmûn (mażmūn) (مضمون)\n4)müedda/müeddâ (mü’eddā) (مؤدى)\n5)fehva/fehvâ (fehvā) (فحوى)\n6)medlul/medlûl (medlūl) (مدلول)\n7)mantuk/mantûk (manṭūḳ) (منطوق)\n8)hüküm/hükm (ḥükm) (حكم)\n9)mefhum/mefhûm (mefhūm) (مفهوم)\n10)tercüme/terceme (tercüme) (ترجمه)\n11)müfad/müfād (مفاد)\n12)mahiyet/māhiyyet (ماهيت)\n13)zemin/zemīn (زمين)\n14)nükte/nükte (نكته)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -264,7 +324,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)ihtilaf/ihtilāf (اختلاف)\n2)muhalefet/muḫālefet (مخالفت)\n3)suitefehhüm/sū-i tefehhüm (سوء تفهم)\n4)adem i tefahüm/‘adem-i tefāhüm (عدم تفاہم)\n5)nifak/nifāḳ (نفاق)\n6)beynunet/beynūnet (بينونت)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -274,7 +334,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)tahkiye/taḥkiye (تحكيه)\n2)ifade/ifāde (افاده)\n3)kıssa/kıṣṣa (قصه)\n4)söyleyiş/söyleyiş (سويليش)\n5)anlatış/añlatış (اڭلاتيش)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -284,7 +344,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)telakki/telakkī (تلقی)\n2)zihniyet/zihniyyet (ذهنيت)\n3)iz'an/iz‘ān (اذعان)\n4)kafa/ḳafā (قفا)\n5)zihin/zihn (ذهن)\n6)telakkiyat/telakkıyāt (تلقیات)\n7)ruh/rūḥ (روح)\n8)nazariye/naẓariyye (نظريه)\n9)hüsn i telakki/hüsn-i telakkī (حسن تلقی)\n10)irfan/‘irfān (عرفان)\n11)rey/reʾy (رأی)\n12)basiret/baṣīret (بصيرت)\n13)fikir/fikr (fikir) (فكر)\n14)efkar/efkār (افكار)\n15)beyin/beyin (beñin) (بكين)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -294,7 +354,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)ihtifal/ihtifāl (احتفال)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -304,7 +364,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)mütavassıt/mütavassıṭ (متوسط)\n2)şefaatçi/şefā‘atçi (شفاعتجی)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -314,7 +374,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)vasıta/vāsiṭa (واسطه)\n2)alet/ālet (آلت)\n3)vesait/vesā’iṭ (وسائط)\n4)binek/binek (بينك)\n5)araba/araba (عربه)\n6)nakil/naḳl (نقل)\n7)edevat/edevāt (ادوات)\n8)cihaz/cihāz (جهاز)\n9)makine/makine (maḳina) (ماكينه)\n10)malzeme/malzeme (ملزمه)\n11)levazım/levāzım (لوازم)\n12)vesail/vesāil (وسائل)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -324,7 +384,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)fasl ı müşterek/faṣl-ı müşterek (فصل مشترك)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -334,7 +394,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)kanunuevvel/kānûnuevvel (kānûn-ı evvel) (كانون اول)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -344,7 +404,17 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)istitrad/istiṭrād (استطراد)",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Araştırma kurulu",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -354,7 +424,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)halef/ḫalef (خلف)\n2)müteakib/müte‘āḳib (متعاقب)\n3)mütevali/mütevālī (متوالی)\n4)redif/redīf (ردیف)\n5)tali kaziye/tālī ḳażiyye (تالی قضیه)\n6)ahlaf/aḫlāf (اخلاف)\n7)zürriyet/ẕürriyyet (ذریت)\n8)nesil/nesl (نسل)\n9)ahfad/aḥfād (احفاد)\n10)evlad ü ahfad/evlād ü aḥfād (اولاد و احفاد)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -364,7 +434,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)tasfiyecilik/taṣfiyecilik (تصفيه‌جيلك)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -374,7 +444,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)zaid/zā’id (زائد)\n2)müsbet/müs̱bet (مثبت)\n3)ilave/ilāve (اضافه)\n4)ayrıca/ayrıca (آیریجه)\n5)bir de/bir de (بر ده)\n6)üstelik/üstelik (اوسته‌لك)\n7)fayda/fā’ide (fāyide) (فایده)\n8)fazilet/fażīlet (فضیلت)\n9)meziyet/meziyyet (مزیت)\n10)faikiyet/fā’ikıyyet (فائقیت)\n11)üstünlük/üstünlük (اوستونلك)\n12)hayır/ḫayır (ḫayr) (خير)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -384,7 +454,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)tufeyli/ṭufeylî (طفيلی)\n2)tufeylat/ṭufeylāt (طفيلات)\n3)parazit/parazit (pārazīt) (پارازيت)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -394,7 +464,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)madun/mādûn (مادون)\n2)zir/zīr (زير)\n3)alt/alt (الت)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -404,7 +474,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)ikinci mülazım/ikinci mülāzım (ایکنجی ملازم)\n2)mülazım ı sani/mülāzım-ı s̱ānī (ملازم ثانی)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -414,7 +484,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)zabit vekili/żābiṭ vekīli (ضابط وكيلى)\n2)küçük zabit/küçük żābiṭ (كوچك ضابط)\n3)gedikli zabit/gedikli żābiṭ (كدكلی ضابط)\n4)gedikli/gedikli (كدكلی)\n5)baş gedikli/baş gedikli (باش كدكلی)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -424,17 +494,17 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)mertebe/mertebe (مرتبه)\n2)paye/pāye (پايه)\n3)had/hadd (حد)\n4)kerte/kerte (كرته)\n5)rütbe/rütbe (رتبه)\n6)merhale/merhale (مرحله)\n7)derece/derece (درجه)\n8)safha/safha (صفحه)\n9)perese/perese (پرسه)\n10)seviye/seviyye (سويه)\n11)menzile/menzile (منزله)\n12)menzilet/menzilet (منزلت)\n13)sınıf/ṣınıf (صنف)\n14)sıra/sıra (صره)\n15)mesabe/mes̱ābe (مثابه)\n16)derecat/derecāt (درجات)\n17)basamak/basamaḳ (باصاماق)\n18)adım/adım (آتيم)\n19)kademe/ḳademe (قدمه)\n20)dereke/dereke (دركه)\n21)eşik/eşik (اشيك)\n22)fasıl/faṣl (faṣıl) (فصل)\n23)silsile/silsile (سلسله)\n24)vaziyet/vaż‘iyyet (وضعیت)\n25)hal/ḥāl (حال)\n26)istihale/istiḥāle (استحاله)\n27)ilerleme/ilerleme (ايلرله‌مه)\n28)gelişme/gelişme (كليشمه)\n29)inkişaf/inkişāf (انكشاف)\n30)neşvünema/neşvünemā (نشو و نما)\n31)tekamül/tekāmül (تكامل)\n32)terakki/terakkī (ترقی)\n33)yükselme/yükselme (يوكسلمه)\n34)kalkınma/kalkınma (قالقنما)\n35)nokta/nokta (نقطه)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
   },
   {
-    "kelime": "Ataerkil",
+    "kelime": "Ataerki",
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)pederşahilik/pederşāhīlik (پدرشاهيلك)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -444,7 +514,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)tayin etmek/ta‘yîn etmek (تعيين ايتمك)\n2)nasbetmek/naṣbetmek (نصب ايتمك)\n3)nakletmek/naḳletmek (نقل ايتمك)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -454,7 +524,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)şiryan/şiryān (شريان)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -464,7 +534,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)mütareke/mütāreke (متاركه)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -474,7 +544,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)hamle/ḥamle (حمله)\n2)şitab/şitāb (شتاب)\n3)savlet/ṣavlet (صولت)\n4)hücum/hücūm (هجوم)\n5)atılış/atılış (آتيليش)\n6)akın/akın (آقين)\n7)taarruz/ta‘arruż (تعرض)\n8)satvet/saṭvet (سطوت)\n9)gayret/ġayret (غيرت)\n10)davranma/davranma (داورانمه)\n11)davranış/davranış (دورانش)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -484,7 +554,17 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)teselli/tesellī (تسلی)\n2)avunma/avunma (اونمه)",
+    "ikame": "",
+    "nuans": "",
+    "ornek": "",
+    "mustak": ""
+  },
+  {
+    "kelime": "Ayça",
+    "tasnif": "",
+    "bilgi": "",
+    "kaynak": "",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -494,7 +574,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)münevver/münevver (منور)\n2)musarrah/muṣarraḥ (مصرح)\n3)vazıh/vāżıḥ (واضح)\n4)mütefekkür/mütefekkir [mütefekkür] (متفكر)\n5)havass/ḫavāṣṣ (خواص)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -504,7 +584,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)cihaz/cihāz (جهاز)\n2)alet/ālet (آلت)\n3)ekipman/ekipman (اکیپمان)\n4)aparat/aparat (آپارات)\n5)edevat/edevāt (ادوات)\n6)avadanlık/avādānlık (اوادانلق)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -514,7 +594,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)ehl i hibre/ehl-i ḫibre (اهل خبره)\n2)ehl i vukuf/ehl-i vuḳūf (اهل وقوف)\n3)mümeyyiz/mümeyyiz (ممیز)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -524,7 +604,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)gafil/gāfil (غافل)\n2)basireti bağlı/basīreti baġlı (بصیرتی باغلو)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -534,7 +614,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)miyar/mi‘yār (معيار)\n2)parantez/parantez (پرانتز)\n3)müterize/mu‘terize (معترضه)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -544,7 +624,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)imtiyaz/imtiyāz (امتياز)\n2)istisna/istisnā (استثنا)\n3)üstünlük/üstünlük (اوستونلك)\n4)iltimas/iltimās (التماس)\n5)kayırma/kayırma (قاييرمه)\n6)arka çıkma/arka çıkma (ارقه چيقمه)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -554,7 +634,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)temyiz/temyīz (تمييز)\n2)fark/farḳ (فرق)\n3)tefavüt/tefāvüt (تفاوت)\n4)fasl ı karib/faṣl-ı ḳarīb (فصل قريب)\n5)fasıl/faṣıl (فصل)\n6)tefrik/tefrīḳ (تفريق)\n7)tefrika/tefriḳa (تفرقه)\n8)tefasıl/tefāṣīl (تفاصيل)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -564,7 +644,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)tafsilat/tafṣīlāt (تفصیلات)\n2)fer’/fer‘ (فرع)\n3)teferruat/teferru‘āt (تفرعات)\n4)füruat/fürū‘āt (فروعات)\n5)laf u güzaf/lāf ü güzāf (لاف و گزاف)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -574,7 +654,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)mukatta/mukaṭṭa‘ (مقطع)\n2)munfasıl/munfaṣıl (منفصل)\n3)gayr ı mütecanis/gayr-ı mütecānis (غير متجانس)\n4)muhtelif/muḫtelif (مختلف)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -584,7 +664,7 @@
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
-    "ikame": "1)ekalliyet/ekalliyyet (اقليت)\n2)azlık/azlık (آزلق)\n3)kıllet/ḳıllet (قلت)",
+    "ikame": "",
     "nuans": "",
     "ornek": "",
     "mustak": ""
