@@ -111,20 +111,10 @@
   },
   {
     "kelime": "Akaryakıt",
-    "tasnif": "",
-    "bilgi": "",
-    "kaynak": "",
-    "ikame": "",
-    "nuans": "",
-    "ornek": "",
-    "mustak": ""
-  },
-  {
-    "kelime": "Akçasal",
-    "tasnif": "",
-    "bilgi": "",
-    "kaynak": "",
-    "ikame": "",
+    "tasnif": "Neolojizm",
+    "bilgi": "Mayi-i mahruk'tan calquedir. Madde-i müşteile (Yanıcı madde) terkibi ise ekseriyetle maddenin kimyevi yapısına ve tehlikesine atfen tercih edilirdi.",
+    "kaynak": "Mayi-i Mahruk: Türkçe Sözlük, TDK (1945)\r\nMadde-i Müşteile",
+    "ikame": "1)Mayi-i mahruk — māyi‘-i maḥrūḳ (مايع محروق)\r\n2)Madde-i müşteile — madde-i müşte‘ile (مادهٔ مشتعله)",
     "nuans": "",
     "ornek": "",
     "mustak": ""
@@ -240,17 +230,7 @@
     "mustak": ""
   },
   {
-    "kelime": "Ana gündem maddesi",
-    "tasnif": "",
-    "bilgi": "",
-    "kaynak": "",
-    "ikame": "",
-    "nuans": "",
-    "ornek": "",
-    "mustak": ""
-  },
-  {
-    "kelime": "Anaerki",
+    "kelime": "Anaerkil",
     "tasnif": "",
     "bilgi": "",
     "kaynak": "",
